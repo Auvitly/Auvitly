@@ -2,5 +2,5 @@
 
 I am a regular developer. Check out my stats on leetcode:
 
-![](https://leetcard.jacoblin.cool/auvitly?theme=dark&font=Saira%20Stencil%20One)
+![](https://leetcode-stats-six.vercel.app/api?username=auvitly&theme=dark)
 
